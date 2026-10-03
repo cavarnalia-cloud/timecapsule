@@ -86,9 +86,10 @@ $navLink = function (string $key, string $href, string $label) use ($nav): strin
 
     <br>
     Author: Anastasia Cavarnali
-    
+
   </div>
 </footer>
 
 </body>
 </html>
+<?php broken(
